@@ -40,5 +40,5 @@ def checkdate():
 
 # Na pewno mozna bylo tutaj sprawdzac inne formaty daty -> znalazlem biblioteke re,
 # ktora przy funkcji split powinna przyjmowac wiecej znakow
-# Problem 2. data u mnie przyhmuje forma rok miesiac ->
+# Problem 2. lepiej byloby w dacie pozwolic na wypisywanie miesiaca w formacie MM czyli styczen jako 01 zamiast 1
 print(checkdate())
